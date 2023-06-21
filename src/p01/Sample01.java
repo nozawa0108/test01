@@ -4,6 +4,7 @@ public class Sample01 {
 
 	public static void main(String[] args) {
 		System.out.println("野澤勇樹");
+		System.out.println(23);
 
 	}
 
